@@ -13,7 +13,7 @@ class Balok extends BangunRuang{
     
     double volume(){
         double volume = p * l * t;
-        System.out.println("Volume Tabung : "+ volume);
+        System.out.println("Volume Balok : "+ volume);
         return volume;    
     }
             
